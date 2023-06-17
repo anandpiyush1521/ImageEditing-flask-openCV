@@ -18,16 +18,6 @@ This is a sample Flask application that demonstrates image editing using OpenCV.
 - flask run
 - Open your web browser and navigate to http://localhost:5000
 
-## Directory Structure
-
-ImageEditing-flask-openC/
-
-├── app.py
-├── templates/
-│   ├── about.html
-│   ├── index.html
-├── README.md
-└── requirements.txt
 
 ## Contributing
 
