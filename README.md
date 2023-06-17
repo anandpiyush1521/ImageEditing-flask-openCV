@@ -21,6 +21,7 @@ This is a sample Flask application that demonstrates image editing using OpenCV.
 ## Directory Structure
 
 ImageEditing-flask-openC/
+
 ├── app.py
 ├── templates/
 │   ├── about.html
